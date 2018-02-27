@@ -1,0 +1,35 @@
+1. store "m" with 0
+   store "a" with 0
+   store "ΣF" without any value
+
+   hitung "m" * "a"
+   set ΣF dengan nilai hitung
+   
+   display ΣF
+   
+
+2. store tahun with 0
+    
+    if tahun mod 4 = 0 AND tahun mod 100 !== 0
+    display kabisat
+
+    if tahun mod 4 = 0 AND tahun mod 100 = 0 AND tahun mod 400 = 0
+    display kabisat
+
+3. store pakaian with 0
+
+   while pakaian <= 19 
+   do pakaian + 1
+    else
+   display "mesin dinyalakan"
+
+4. store murid with 0
+   
+   while murid <= 39
+    do murid + 1
+       if murid = kuku panjang
+       then display Hukuman
+       else
+       display pujian
+   end
+        
